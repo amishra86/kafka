@@ -18,9 +18,6 @@ import kafka.message.MessageAndOffset;
 import java.io.UnsupportedEncodingException;
 
 
-/**
- * Created by user on 12/20/15.
- */
 public class Consumer extends  Thread {
     final static String clientId = "ConsumerClient";
     final static String TOPIC = "egenPrivate";
