@@ -9,9 +9,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
 
-/**
- * Created by user on 12/20/14.
- */
 public class Producer {
     final static String TOPIC = "egenPrivate";
 
